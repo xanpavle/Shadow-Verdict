@@ -1,0 +1,5 @@
+{
+  "name": "Shadow Verdict",
+  "description": "Real-time multiplayer social-deduction app that runs a fast, party-friendly version of Mafia.",
+  "requestFramePermissions": []
+}
